@@ -1,0 +1,804 @@
+{
+	"data" : [{
+			"id" : 60129441,
+			"name" : "Patient Name",
+			"encounter_num" : 27889,
+			"age" : 76,
+			"race" : "African American",
+			"date" : "2016-07-06T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 42663153,
+			"name" : "Patient Name",
+			"encounter_num" : 89350,
+			"age" : 64,
+			"race" : "White",
+			"date" : "2016-05-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 95502329,
+			"name" : "Patient Name",
+			"encounter_num" : 20899,
+			"age" : 71,
+			"race" : "Hispanic",
+			"date" : "2016-04-10T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 1754618,
+			"name" : "Patient Name",
+			"encounter_num" : 48005,
+			"age" : 59,
+			"race" : "African American",
+			"date" : "2016-12-15T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 36038254,
+			"name" : "Patient Name",
+			"encounter_num" : 91558,
+			"age" : 64,
+			"race" : "African American",
+			"date" : "2016-06-19T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 6330300,
+			"name" : "Patient Name",
+			"encounter_num" : 8141,
+			"age" : 70,
+			"race" : "White",
+			"date" : "2016-10-13T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 11577499,
+			"name" : "Patient Name",
+			"encounter_num" : 10307,
+			"age" : 76,
+			"race" : "White",
+			"date" : "2016-06-19T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 17036485,
+			"name" : "Patient Name",
+			"encounter_num" : 63633,
+			"age" : 56,
+			"race" : "Asian",
+			"date" : "2016-04-24T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 67125839,
+			"name" : "Patient Name",
+			"encounter_num" : 25894,
+			"age" : 73,
+			"race" : "White",
+			"date" : "2016-07-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 30160157,
+			"name" : "Patient Name",
+			"encounter_num" : 14689,
+			"age" : 59,
+			"race" : "Pacific Islander",
+			"date" : "2016-06-23T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 66449332,
+			"name" : "Patient Name",
+			"encounter_num" : 54093,
+			"age" : 61,
+			"race" : "Asian",
+			"date" : "2016-11-11T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 34191858,
+			"name" : "Patient Name",
+			"encounter_num" : 47041,
+			"age" : 55,
+			"race" : "Hispanic",
+			"date" : "2016-11-09T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 17289221,
+			"name" : "Patient Name",
+			"encounter_num" : 9531,
+			"age" : 66,
+			"race" : "African American",
+			"date" : "2016-06-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 15349424,
+			"name" : "Patient Name",
+			"encounter_num" : 38060,
+			"age" : 79,
+			"race" : "Asian",
+			"date" : "2016-08-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 19113599,
+			"name" : "Patient Name",
+			"encounter_num" : 78322,
+			"age" : 78,
+			"race" : "White",
+			"date" : "2016-09-02T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 50205889,
+			"name" : "Patient Name",
+			"encounter_num" : 43560,
+			"age" : 64,
+			"race" : "African American",
+			"date" : "2016-06-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 36716035,
+			"name" : "Patient Name",
+			"encounter_num" : 24384,
+			"age" : 70,
+			"race" : "White",
+			"date" : "2016-03-21T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 13862407,
+			"name" : "Patient Name",
+			"encounter_num" : 100439,
+			"age" : 69,
+			"race" : "African American",
+			"date" : "2016-12-24T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 65317340,
+			"name" : "Patient Name",
+			"encounter_num" : 5093,
+			"age" : 74,
+			"race" : "Hispanic",
+			"date" : "2016-08-06T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 19876647,
+			"name" : "Patient Name",
+			"encounter_num" : 95083,
+			"age" : 56,
+			"race" : "African American",
+			"date" : "2016-03-24T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 59099574,
+			"name" : "Patient Name",
+			"encounter_num" : 21812,
+			"age" : 51,
+			"race" : "Asian",
+			"date" : "2016-07-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 96859535,
+			"name" : "Patient Name",
+			"encounter_num" : 7136,
+			"age" : 67,
+			"race" : "African American",
+			"date" : "2016-02-17T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 87449231,
+			"name" : "Patient Name",
+			"encounter_num" : 84959,
+			"age" : 64,
+			"race" : "Hispanic",
+			"date" : "2016-11-22T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 31437170,
+			"name" : "Patient Name",
+			"encounter_num" : 37150,
+			"age" : 60,
+			"race" : "African American",
+			"date" : "2016-11-02T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 10832955,
+			"name" : "Patient Name",
+			"encounter_num" : 14586,
+			"age" : 50,
+			"race" : "Hispanic",
+			"date" : "2016-04-22T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 34644497,
+			"name" : "Patient Name",
+			"encounter_num" : 12825,
+			"age" : 61,
+			"race" : "White",
+			"date" : "2016-11-03T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 10459774,
+			"name" : "Patient Name",
+			"encounter_num" : 21922,
+			"age" : 65,
+			"race" : "White",
+			"date" : "2016-07-23T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 92327559,
+			"name" : "Patient Name",
+			"encounter_num" : 91034,
+			"age" : 74,
+			"race" : "African American",
+			"date" : "2016-07-14T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 55066111,
+			"name" : "Patient Name",
+			"encounter_num" : 97771,
+			"age" : 73,
+			"race" : "African American",
+			"date" : "2016-04-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 33485127,
+			"name" : "Patient Name",
+			"encounter_num" : 92975,
+			"age" : 62,
+			"race" : "White",
+			"date" : "2016-12-14T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 85404836,
+			"name" : "Patient Name",
+			"encounter_num" : 47582,
+			"age" : 52,
+			"race" : "Hispanic",
+			"date" : "2016-04-26T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 25155935,
+			"name" : "Patient Name",
+			"encounter_num" : 88111,
+			"age" : 59,
+			"race" : "Hispanic",
+			"date" : "2016-03-16T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 94759868,
+			"name" : "Patient Name",
+			"encounter_num" : 52056,
+			"age" : 56,
+			"race" : "White",
+			"date" : "2016-09-12T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 44977991,
+			"name" : "Patient Name",
+			"encounter_num" : 48288,
+			"age" : 53,
+			"race" : "White",
+			"date" : "2016-09-08T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 44889060,
+			"name" : "Patient Name",
+			"encounter_num" : 9537,
+			"age" : 70,
+			"race" : "White",
+			"date" : "2016-04-24T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 23297333,
+			"name" : "Patient Name",
+			"encounter_num" : 76924,
+			"age" : 55,
+			"race" : "White",
+			"date" : "2016-11-12T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 82941543,
+			"name" : "Patient Name",
+			"encounter_num" : 60022,
+			"age" : 71,
+			"race" : "African American",
+			"date" : "2016-09-01T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 85385946,
+			"name" : "Patient Name",
+			"encounter_num" : 6258,
+			"age" : 53,
+			"race" : "White",
+			"date" : "2016-05-03T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 15023979,
+			"name" : "Patient Name",
+			"encounter_num" : 15342,
+			"age" : 63,
+			"race" : "White",
+			"date" : "2016-09-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 438308,
+			"name" : "Patient Name",
+			"encounter_num" : 50510,
+			"age" : 50,
+			"race" : "African American",
+			"date" : "2016-11-11T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 52805098,
+			"name" : "Patient Name",
+			"encounter_num" : 85578,
+			"age" : 76,
+			"race" : "Pacific Islander",
+			"date" : "2016-03-11T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 65085519,
+			"name" : "Patient Name",
+			"encounter_num" : 25323,
+			"age" : 73,
+			"race" : "White",
+			"date" : "2016-02-08T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 1767523,
+			"name" : "Patient Name",
+			"encounter_num" : 80590,
+			"age" : 51,
+			"race" : "Hispanic",
+			"date" : "2016-02-25T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 59017347,
+			"name" : "Patient Name",
+			"encounter_num" : 32148,
+			"age" : 55,
+			"race" : "African American",
+			"date" : "2016-08-25T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 29287913,
+			"name" : "Patient Name",
+			"encounter_num" : 84931,
+			"age" : 73,
+			"race" : "Hispanic",
+			"date" : "2016-07-17T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 91810185,
+			"name" : "Patient Name",
+			"encounter_num" : 52601,
+			"age" : 77,
+			"race" : "White",
+			"date" : "2016-12-27T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 92486478,
+			"name" : "Patient Name",
+			"encounter_num" : 11615,
+			"age" : 75,
+			"race" : "Pacific Islander",
+			"date" : "2016-06-16T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 7324949,
+			"name" : "Patient Name",
+			"encounter_num" : 3393,
+			"age" : 53,
+			"race" : "White",
+			"date" : "2016-06-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 60095883,
+			"name" : "Patient Name",
+			"encounter_num" : 64569,
+			"age" : 70,
+			"race" : "Hispanic",
+			"date" : "2016-10-06T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 36608242,
+			"name" : "Patient Name",
+			"encounter_num" : 95654,
+			"age" : 70,
+			"race" : "White",
+			"date" : "2016-06-15T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 65592068,
+			"name" : "Patient Name",
+			"encounter_num" : 51215,
+			"age" : 59,
+			"race" : "African American",
+			"date" : "2016-12-09T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 28432716,
+			"name" : "Patient Name",
+			"encounter_num" : 69305,
+			"age" : 58,
+			"race" : "African American",
+			"date" : "2016-08-02T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 13915182,
+			"name" : "Patient Name",
+			"encounter_num" : 70789,
+			"age" : 77,
+			"race" : "Asian",
+			"date" : "2016-09-25T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 71898235,
+			"name" : "Patient Name",
+			"encounter_num" : 60204,
+			"age" : 78,
+			"race" : "Hispanic",
+			"date" : "2016-12-15T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 96511446,
+			"name" : "Patient Name",
+			"encounter_num" : 7363,
+			"age" : 76,
+			"race" : "African American",
+			"date" : "2016-10-12T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 34542606,
+			"name" : "Patient Name",
+			"encounter_num" : 13016,
+			"age" : 69,
+			"race" : "African American",
+			"date" : "2016-03-27T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 16109913,
+			"name" : "Patient Name",
+			"encounter_num" : 87896,
+			"age" : 74,
+			"race" : "African American",
+			"date" : "2016-02-07T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 72292914,
+			"name" : "Patient Name",
+			"encounter_num" : 38240,
+			"age" : 71,
+			"race" : "Hispanic",
+			"date" : "2016-04-01T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 87199916,
+			"name" : "Patient Name",
+			"encounter_num" : 19032,
+			"age" : 75,
+			"race" : "Hispanic",
+			"date" : "2016-03-14T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 4336195,
+			"name" : "Patient Name",
+			"encounter_num" : 57481,
+			"age" : 72,
+			"race" : "African American",
+			"date" : "2016-06-26T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 72516418,
+			"name" : "Patient Name",
+			"encounter_num" : 81288,
+			"age" : 60,
+			"race" : "White",
+			"date" : "2016-08-15T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 73336222,
+			"name" : "Patient Name",
+			"encounter_num" : 65451,
+			"age" : 63,
+			"race" : "White",
+			"date" : "2016-12-19T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 4065758,
+			"name" : "Patient Name",
+			"encounter_num" : 27511,
+			"age" : 57,
+			"race" : "Pacific Islander",
+			"date" : "2016-10-01T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 89074691,
+			"name" : "Patient Name",
+			"encounter_num" : 88279,
+			"age" : 67,
+			"race" : "Hispanic",
+			"date" : "2016-07-21T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 47250367,
+			"name" : "Patient Name",
+			"encounter_num" : 8307,
+			"age" : 51,
+			"race" : "African American",
+			"date" : "2016-11-24T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 68755184,
+			"name" : "Patient Name",
+			"encounter_num" : 38604,
+			"age" : 78,
+			"race" : "White",
+			"date" : "2016-07-12T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 85637205,
+			"name" : "Patient Name",
+			"encounter_num" : 76995,
+			"age" : 57,
+			"race" : "Hispanic",
+			"date" : "2016-06-07T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 29821459,
+			"name" : "Patient Name",
+			"encounter_num" : 87030,
+			"age" : 79,
+			"race" : "White",
+			"date" : "2016-09-06T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 13765115,
+			"name" : "Patient Name",
+			"encounter_num" : 27259,
+			"age" : 55,
+			"race" : "American Indian",
+			"date" : "2016-06-04T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 17986868,
+			"name" : "Patient Name",
+			"encounter_num" : 82919,
+			"age" : 71,
+			"race" : "African American",
+			"date" : "2016-05-19T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 66404090,
+			"name" : "Patient Name",
+			"encounter_num" : 12441,
+			"age" : 70,
+			"race" : "White",
+			"date" : "2016-03-06T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 50819355,
+			"name" : "Patient Name",
+			"encounter_num" : 61940,
+			"age" : 51,
+			"race" : "African American",
+			"date" : "2016-12-07T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 93339897,
+			"name" : "Patient Name",
+			"encounter_num" : 36816,
+			"age" : 52,
+			"race" : "White",
+			"date" : "2016-06-25T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 58613859,
+			"name" : "Patient Name",
+			"encounter_num" : 72267,
+			"age" : 68,
+			"race" : "Hispanic",
+			"date" : "2016-10-22T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 19926358,
+			"name" : "Patient Name",
+			"encounter_num" : 34006,
+			"age" : 61,
+			"race" : "Hispanic",
+			"date" : "2016-08-16T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 20229207,
+			"name" : "Patient Name",
+			"encounter_num" : 31385,
+			"age" : 52,
+			"race" : "White",
+			"date" : "2016-12-19T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 71335429,
+			"name" : "Patient Name",
+			"encounter_num" : 28260,
+			"age" : 60,
+			"race" : "White",
+			"date" : "2016-06-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 39170666,
+			"name" : "Patient Name",
+			"encounter_num" : 25718,
+			"age" : 74,
+			"race" : "Hispanic",
+			"date" : "2016-08-26T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 91466173,
+			"name" : "Patient Name",
+			"encounter_num" : 56390,
+			"age" : 62,
+			"race" : "Asian",
+			"date" : "2016-06-04T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 13010004,
+			"name" : "Patient Name",
+			"encounter_num" : 69334,
+			"age" : 58,
+			"race" : "Hispanic",
+			"date" : "2016-05-03T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 22861891,
+			"name" : "Patient Name",
+			"encounter_num" : 54308,
+			"age" : 51,
+			"race" : "White",
+			"date" : "2016-02-17T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 37245319,
+			"name" : "Patient Name",
+			"encounter_num" : 49591,
+			"age" : 50,
+			"race" : "Asian",
+			"date" : "2016-03-16T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 43004318,
+			"name" : "Patient Name",
+			"encounter_num" : 35883,
+			"age" : 73,
+			"race" : "White",
+			"date" : "2016-07-07T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 41203590,
+			"name" : "Patient Name",
+			"encounter_num" : 36849,
+			"age" : 50,
+			"race" : "African American",
+			"date" : "2016-04-26T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 89014917,
+			"name" : "Patient Name",
+			"encounter_num" : 23623,
+			"age" : 67,
+			"race" : "African American",
+			"date" : "2016-03-15T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 60413378,
+			"name" : "Patient Name",
+			"encounter_num" : 98223,
+			"age" : 77,
+			"race" : "White",
+			"date" : "2016-04-06T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 82025188,
+			"name" : "Patient Name",
+			"encounter_num" : 34233,
+			"age" : 66,
+			"race" : "Hispanic",
+			"date" : "2016-11-20T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 72032512,
+			"name" : "Patient Name",
+			"encounter_num" : 72554,
+			"age" : 61,
+			"race" : "White",
+			"date" : "2016-08-09T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 85456376,
+			"name" : "Patient Name",
+			"encounter_num" : 43927,
+			"age" : 65,
+			"race" : "American Indian",
+			"date" : "2016-04-20T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 94439408,
+			"name" : "Patient Name",
+			"encounter_num" : 33661,
+			"age" : 76,
+			"race" : "White",
+			"date" : "2016-06-01T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 66781410,
+			"name" : "Patient Name",
+			"encounter_num" : 28284,
+			"age" : 54,
+			"race" : "Hispanic",
+			"date" : "2016-04-13T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 50327154,
+			"name" : "Patient Name",
+			"encounter_num" : 34048,
+			"age" : 76,
+			"race" : "African American",
+			"date" : "2016-09-03T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 48378996,
+			"name" : "Patient Name",
+			"encounter_num" : 57155,
+			"age" : 60,
+			"race" : "White",
+			"date" : "2016-05-10T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 72210340,
+			"name" : "Patient Name",
+			"encounter_num" : 62279,
+			"age" : 50,
+			"race" : "Asian",
+			"date" : "2016-09-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 53015800,
+			"name" : "Patient Name",
+			"encounter_num" : 84561,
+			"age" : 59,
+			"race" : "White",
+			"date" : "2016-06-24T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 40602846,
+			"name" : "Patient Name",
+			"encounter_num" : 64609,
+			"age" : 53,
+			"race" : "African American",
+			"date" : "2016-08-18T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 11819758,
+			"name" : "Patient Name",
+			"encounter_num" : 47606,
+			"age" : 77,
+			"race" : "White",
+			"date" : "2016-05-10T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 46890111,
+			"name" : "Patient Name",
+			"encounter_num" : 92176,
+			"age" : 77,
+			"race" : "White",
+			"date" : "2016-08-23T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 50202192,
+			"name" : "Patient Name",
+			"encounter_num" : 83539,
+			"age" : 50,
+			"race" : "Hispanic",
+			"date" : "2016-06-03T04:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}, {
+			"id" : 43524472,
+			"name" : "Patient Name",
+			"encounter_num" : 31918,
+			"age" : 72,
+			"race" : "Hispanic",
+			"date" : "2016-03-11T05:00:00.000Z",
+			"rxnorm" : ["1303851"]
+		}
+	]
+}

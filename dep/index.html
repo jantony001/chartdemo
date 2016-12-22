@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>DB Query</title>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+          <script type="text/javascript" src="https://code.jquery.com/jquery-3.0.0.min.js"></script>
+
+  <style type="text/css">
+    table {
+      border-collapse: collapse;
+    }
+
+    table td,
+    table th {
+      border: 1px solid yellowgreen;
+      padding: 5px;
+    }
+  </style>
+
+</head>
+<body>
+
+<a href="dep/chart.html">See Charts created using ChartArrow</a>
+<a style="float:right" href="data/encounter.json">Data used for below charts</a>
+<br/>
+<div align="center">
+
+  <div id="scatter_div" style="width: 900px; height: 400px;"></div>
+  <div id="bubble_chart_div" style="width: 900px; height: 500px;"></div>
+  <br/><br/>
+  <div id="calendar_basic" style="width: 1000px"></div>
+  <br/><br/>
+  <b>Encounter timeline by race</b><br/><br/>
+  <div id='chart_div' style='width: 900px; height: 500px;'></div>
+</div>
+<br/><br/>
+<div align="center" style="border: dotted #ffc952 2px">
+  <br/><br/>
+  select <input size="5" id="item" value="*"/> from
+  <select>
+    <option id="table" value="icd9">icd9</option>
+  </select>
+  <br/><br/>
+  <button onclick="sendQueryRequest();">Execute</button>
+  <table width="600px">
+    <tr>
+      <th>Result</th>
+    </tr>
+  </table>
+  <br/><br/>
+  <table id="result" width="600px">
+    <tr>
+      <th>patient_num</th>
+      <th>start_date</th>
+      <th>encounter_num</th>
+      <th>icd9s</th>
+    </tr>
+  </table>
+</div>
+
+    <script type="text/javascript" src="parser.js"></script>
+    <script type="text/javascript" src="arrows.js"></script>
+  <script type="text/javascript" src="chart.js"></script>
+
+</body>
+</html>
